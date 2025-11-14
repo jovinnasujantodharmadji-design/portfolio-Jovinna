@@ -4,7 +4,7 @@ Welcome to my personal portfolio website!
 This site introduces who I am, shows some of my projects, and includes my contact info.
 
 ## 🧑 About Me
-My name is Your Name, and I’m a [your role or field, e.g. computer science student / designer / developer].
+My name is Jovinna Sujanto Dharmadji, and I’m a computer science student.
 
 ## 💼 Projects
 - Project 1: Short description
